@@ -26,6 +26,7 @@ status-website:
     - title: Ajouter une API
       href: https://github.com/betagouv/status.api.gouv.fr/issues
   favicon: https://api.gouv.fr/favicon.ico
+  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
