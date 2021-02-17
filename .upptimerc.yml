@@ -6,6 +6,36 @@ repo: status.api.gouv.fr # Your GitHub repository name
 sites:
   - name: API Particulier
     url: https://particulier.api.gouv.fr/api/ping
+  - name: API Adresse (Base Adresse Nationale)
+    url: https://api-adresse.data.gouv.fr/search/?q=8+bd+du+port
+  - name: API Découpage Administratif - (API Geo)
+    url: https://geo.api.gouv.fr/communes/37000?fields=nom,code,codesPostaux,codeDepartement,codeRegion,population&format=json&geometry=centre
+  - name: API Aide financieres de l’ADEME
+    url: https://koumoul.com/s/data-fair/api/v1/datasets/les-aides-financieres-de-l%27ademe/data-files
+  - name: API Aides financières à la rénovation énergetique (Simul’Aid€s)
+    url: https://koumoul.com/s/data-fair/api/v1/datasets/simul%27aideuros-dispositifs/data-files
+  - name: API Base Carbone
+    url: https://koumoul.com/s/data-fair/api/v1/datasets/base-carbone(r)/data-files
+  - name: API BOAMP
+    url: https://api.dila.fr/opendata/api-boamp/annonces/search?criterion=test
+  - name: API Camino
+    url: https://api.camino.beta.gouv.fr/titres
+  - name: API Répertoire National des Associations
+    url: https://entreprise.data.gouv.fr/api/rna/v1/id/W9C1000188
+  - name: API Sirene données ouvertes
+    url: https://entreprise.data.gouv.fr/api/sirene/v3/etablissements/?etat_administratif=A&siren=345184428
+  - name: API Annuaire des établissements publics de l'administration
+    url: https://etablissements-publics.api.gouv.fr/v3/departements/35/ccas
+  - name: API Répertoire National des Métiers
+    url: https://api-rnm.artisanat.fr/v2/entreprises/345184428
+  - name: API Jours fériés en France
+    url: https://calendrier.api.gouv.fr/jours-feries/metropole.json
+  - name: API DILA - Légifrance Beta
+    url: https://api.aife.economie.gouv.fr/dila/legifrance-beta/lf-engine-app/consult/ping
+  - name: Openfisca-France Web API
+    url: https://fr.openfisca.org/api/latest/variable/en_couple
+  - name: Transport.data.gouv.fr API
+    url: https://transport.data.gouv.fr/api/aoms?lon=2.3522&lat=48.8566
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -14,7 +44,7 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://api.gouv.fr/images/api-logo/dinum.png
   name: api.gouv.fr - Disponiblité des API du service public français
-  introTitle: "api.gouv.fr - Disponiblité des API du service public français"
+  introTitle: "Disponiblité des API du service public"
   introMessage: Retrouvez sur ce tableau de bord, les disponibilités des API d'api.gouv.fr
   navbar:
     - title: Disponibilité
@@ -26,7 +56,6 @@ status-website:
     - title: Ajouter une API
       href: https://github.com/betagouv/status.api.gouv.fr/issues
   favicon: https://api.gouv.fr/favicon.ico
-  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
