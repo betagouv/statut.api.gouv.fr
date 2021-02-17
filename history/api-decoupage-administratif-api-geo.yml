@@ -1,7 +1,7 @@
 url: https://geo.api.gouv.fr/communes/37000?fields=nom,code,codesPostaux,codeDepartement,codeRegion,population&format=json&geometry=centre
 status: down
 code: 404
-responseTime: 971
-lastUpdated: 2021-02-17T17:09:33.957Z
+responseTime: 697
+lastUpdated: 2021-02-17T23:13:21.793Z
 startTime: Wed Feb 17 2021 16:56:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
