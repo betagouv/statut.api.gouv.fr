@@ -13,8 +13,8 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://api.gouv.fr/images/api-logo/dinum.png
-  name: api.gouv.fr - Disponiblité des API du service public Français
-  introTitle: "api.gouv.fr - Disponiblité des API du service public Français"
+  name: api.gouv.fr - Disponiblité des API du service public français
+  introTitle: "api.gouv.fr - Disponiblité des API du service public français"
   introMessage: Retrouvez sur ce tableau de bord, les disponibilités des API d'api.gouv.fr
   navbar:
     - title: Disponibilité
