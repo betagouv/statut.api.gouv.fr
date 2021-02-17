@@ -1,4 +1,4 @@
-# 🚥 status.api.gouv.fr
+# 🚥 statut.api.gouv.fr
 
 Bienvenue sur le tableau de bord des disponibilités des API du service public français
 
