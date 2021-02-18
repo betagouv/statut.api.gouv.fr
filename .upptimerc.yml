@@ -9,7 +9,7 @@ sites:
   - name: API Adresse (Base Adresse Nationale)
     url: https://api-adresse.data.gouv.fr/search/?q=8+bd+du+port
   - name: API Découpage Administratif - (API Geo)
-    url: https://geo.api.gouv.fr/communes/37000?fields=nom,code,codesPostaux,codeDepartement,codeRegion,population&format=json&geometry=centre
+    url: https://geo.api.gouv.fr/regions/01?fields=nom,code
   - name: API Aide financieres de l’ADEME
     url: https://koumoul.com/s/data-fair/api/v1/datasets/les-aides-financieres-de-l%27ademe/data-files
   - name: API Aides financières à la rénovation énergetique (Simul’Aid€s)
@@ -27,7 +27,7 @@ sites:
   - name: API Annuaire des établissements publics de l'administration
     url: https://etablissements-publics.api.gouv.fr/v3/departements/35/ccas
   - name: API Répertoire National des Métiers
-    url: https://api-rnm.artisanat.fr/v2/entreprises/345184428
+    url: https://api-rnm.artisanat.fr/v2/entreprises/824024350
   - name: API Jours fériés en France
     url: https://calendrier.api.gouv.fr/jours-feries/metropole.json
   - name: API DILA - Légifrance Beta
