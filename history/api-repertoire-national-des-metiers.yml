@@ -1,7 +1,7 @@
 url: https://api-rnm.artisanat.fr/v2/entreprises/824024350
-status: up
-code: 200
-responseTime: 2217
-lastUpdated: 2021-03-03T23:14:01.903Z
+status: down
+code: 500
+responseTime: 28810
+lastUpdated: 2021-03-04T01:51:57.652Z
 startTime: Thu Feb 18 2021 13:20:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
