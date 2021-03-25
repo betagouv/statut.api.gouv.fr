@@ -132,7 +132,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-25": 10,
+      "2021-03-25": 72,
       "2021-03-24": 1440,
       "2021-03-23": 1440,
       "2021-03-22": 1440,
@@ -253,7 +253,7 @@
     "url": "https://api-rnm.artisanat.fr/v2/entreprises/824024350",
     "icon": "https://favicons.githubusercontent.com/api-rnm.artisanat.fr",
     "slug": "api-repertoire-national-des-metiers",
-    "status": "up",
+    "status": "down",
     "uptime": "96.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -319,7 +319,7 @@
     "timeMonth": 643,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2021-03-25": 10,
+      "2021-03-25": 72,
       "2021-03-24": 1440,
       "2021-03-23": 1440,
       "2021-03-22": 1440,
