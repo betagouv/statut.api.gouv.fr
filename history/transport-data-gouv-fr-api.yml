@@ -1,7 +1,7 @@
 url: https://transport.data.gouv.fr/api/aoms?lon=2.3522&lat=48.8566
 status: up
 code: 200
-responseTime: 524
-lastUpdated: 2021-04-04T23:04:59.913Z
+responseTime: 544
+lastUpdated: 2021-04-05T23:05:25.453Z
 startTime: Wed Feb 17 2021 16:57:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
