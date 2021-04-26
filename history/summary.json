@@ -132,7 +132,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-26": 9,
+      "2021-04-26": 27,
       "2021-04-25": 1440,
       "2021-04-24": 1440,
       "2021-04-23": 1440,
@@ -208,9 +208,9 @@
     "url": "https://api.camino.beta.gouv.fr/titres",
     "icon": "https://favicons.githubusercontent.com/api.camino.beta.gouv.fr",
     "slug": "api-camino",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "97.95%",
+    "uptimeDay": "97.93%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.93%",
@@ -220,6 +220,7 @@
     "timeMonth": 12024,
     "timeYear": 11985,
     "dailyMinutesDown": {
+      "2021-04-26": 0,
       "2021-04-25": 30,
       "2021-04-22": 12,
       "2021-04-21": 19,
@@ -355,7 +356,7 @@
     "timeMonth": 632,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2021-04-26": 9,
+      "2021-04-26": 27,
       "2021-04-25": 1440,
       "2021-04-24": 1440,
       "2021-04-23": 1440,
