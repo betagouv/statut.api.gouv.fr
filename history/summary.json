@@ -22,19 +22,19 @@
     "url": "https://api-adresse.data.gouv.fr/search/?q=8+bd+du+port",
     "icon": "https://favicons.githubusercontent.com/api-adresse.data.gouv.fr",
     "slug": "api-adresse-base-adresse-nationale",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2853,
-    "timeDay": 2352,
-    "timeWeek": 1400,
-    "timeMonth": 1907,
-    "timeYear": 2853,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 2823,
+    "timeDay": 1722,
+    "timeWeek": 1296,
+    "timeMonth": 1868,
+    "timeYear": 2823,
     "dailyMinutesDown": {
-      "2021-04-27": 1
+      "2021-04-27": 14
     }
   },
   {
@@ -134,7 +134,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-27": 616,
+      "2021-04-27": 630,
       "2021-04-26": 1440,
       "2021-04-25": 1440,
       "2021-04-24": 1440,
@@ -361,7 +361,7 @@
     "timeMonth": 630,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2021-04-27": 616,
+      "2021-04-27": 630,
       "2021-04-26": 1440,
       "2021-04-25": 1440,
       "2021-04-24": 1440,
