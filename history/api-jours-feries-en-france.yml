@@ -1,7 +1,7 @@
 url: https://calendrier.api.gouv.fr/jours-feries/metropole.json
 status: up
 code: 200
-responseTime: 417
-lastUpdated: 2021-05-12T23:16:48.489Z
+responseTime: 322
+lastUpdated: 2021-05-13T23:19:37.651Z
 startTime: Thu Feb 18 2021 13:20:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
