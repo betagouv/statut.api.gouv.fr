@@ -138,7 +138,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-06-08": 631,
+      "2021-06-08": 656,
       "2021-06-07": 1440,
       "2021-06-06": 1440,
       "2021-06-05": 1440,
@@ -386,19 +386,19 @@
     "url": "https://calendrier.api.gouv.fr/jours-feries/metropole.json",
     "icon": "https://favicons.githubusercontent.com/calendrier.api.gouv.fr",
     "slug": "api-jours-feries-en-france",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 240,
-    "timeDay": 290,
-    "timeWeek": 291,
+    "timeDay": 276,
+    "timeWeek": 286,
     "timeMonth": 268,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2021-06-08": 0
+      "2021-06-08": 25
     }
   },
   {
@@ -418,7 +418,7 @@
     "timeMonth": 633,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2021-06-08": 631,
+      "2021-06-08": 656,
       "2021-06-07": 1440,
       "2021-06-06": 1440,
       "2021-06-05": 1440,
