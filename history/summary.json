@@ -142,7 +142,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-11": 32,
+      "2021-07-11": 61,
       "2021-07-10": 1440,
       "2021-07-09": 1440,
       "2021-07-08": 1440,
@@ -456,7 +456,7 @@
     "timeMonth": 612,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2021-07-11": 32,
+      "2021-07-11": 61,
       "2021-07-10": 1440,
       "2021-07-09": 1440,
       "2021-07-08": 1440,
@@ -608,9 +608,9 @@
     "url": "https://fr.openfisca.org/api/latest/variable/en_couple",
     "icon": "https://favicons.githubusercontent.com/fr.openfisca.org",
     "slug": "openfisca-france-web-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -619,7 +619,9 @@
     "timeWeek": 835,
     "timeMonth": 718,
     "timeYear": 748,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-11": 0
+    }
   },
   {
     "name": "Transport.data.gouv.fr API",
