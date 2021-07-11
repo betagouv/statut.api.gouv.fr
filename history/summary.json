@@ -44,11 +44,11 @@
     "icon": "https://favicons.githubusercontent.com/geo.api.gouv.fr",
     "slug": "api-decoupage-administratif-api-geo",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.04%",
+    "uptimeYear": "99.05%",
     "time": 805,
     "timeDay": 982,
     "timeWeek": 832,
@@ -142,7 +142,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-11": 456,
+      "2021-07-11": 659,
       "2021-07-10": 1440,
       "2021-07-09": 1440,
       "2021-07-08": 1440,
@@ -294,15 +294,15 @@
     "url": "https://api.camino.beta.gouv.fr/titres",
     "icon": "https://favicons.githubusercontent.com/api.camino.beta.gouv.fr",
     "slug": "api-camino",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "88.65%",
-    "uptimeWeek": "88.72%",
-    "uptimeMonth": "96.79%",
+    "uptimeDay": "91.16%",
+    "uptimeWeek": "89.00%",
+    "uptimeMonth": "96.81%",
     "uptimeYear": "99.32%",
     "time": 16609,
-    "timeDay": 18326,
-    "timeWeek": 19089,
+    "timeDay": 18424,
+    "timeWeek": 19099,
     "timeMonth": 19154,
     "timeYear": 16609,
     "dailyMinutesDown": {
@@ -316,7 +316,7 @@
       "2021-07-04": 113,
       "2021-07-03": 70,
       "2021-07-02": 125,
-      "2021-07-01": 14
+      "2021-07-01": 7
     }
   },
   {
@@ -457,7 +457,7 @@
     "timeMonth": 612,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2021-07-11": 456,
+      "2021-07-11": 659,
       "2021-07-10": 1440,
       "2021-07-09": 1440,
       "2021-07-08": 1440,
@@ -610,18 +610,18 @@
     "icon": "https://favicons.githubusercontent.com/fr.openfisca.org",
     "slug": "openfisca-france-web-api",
     "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "72.59%",
-    "uptimeWeek": "96.08%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "99.81%",
+    "uptime": "99.71%",
+    "uptimeDay": "58.48%",
+    "uptimeWeek": "94.07%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "99.71%",
     "time": 748,
     "timeDay": 1225,
     "timeWeek": 835,
     "timeMonth": 718,
     "timeYear": 748,
     "dailyMinutesDown": {
-      "2021-07-11": 395
+      "2021-07-11": 598
     }
   },
   {
