@@ -142,7 +142,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-12": 1322,
+      "2021-07-12": 1352,
       "2021-07-11": 1440,
       "2021-07-10": 1440,
       "2021-07-09": 1440,
@@ -295,12 +295,12 @@
     "url": "https://api.camino.beta.gouv.fr/titres",
     "icon": "https://favicons.githubusercontent.com/api.camino.beta.gouv.fr",
     "slug": "api-camino",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "87.45%",
-    "uptimeWeek": "87.83%",
-    "uptimeMonth": "96.69%",
-    "uptimeYear": "99.30%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "87.43%",
+    "uptimeWeek": "87.92%",
+    "uptimeMonth": "96.72%",
+    "uptimeYear": "99.31%",
     "time": 16754,
     "timeDay": 19519,
     "timeWeek": 19175,
@@ -315,7 +315,7 @@
       "2021-07-07": 194,
       "2021-07-06": 199,
       "2021-07-05": 146,
-      "2021-07-04": 104
+      "2021-07-04": 91
     }
   },
   {
@@ -456,7 +456,7 @@
     "timeMonth": 604,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2021-07-12": 1322,
+      "2021-07-12": 1352,
       "2021-07-11": 1440,
       "2021-07-10": 1440,
       "2021-07-09": 1440,
@@ -611,7 +611,7 @@
     "slug": "openfisca-france-web-api",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "52.15%",
+    "uptimeDay": "54.24%",
     "uptimeWeek": "80.66%",
     "uptimeMonth": "95.55%",
     "uptimeYear": "99.07%",
