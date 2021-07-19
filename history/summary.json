@@ -142,7 +142,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-18": 1431,
+      "2021-07-19": 3,
+      "2021-07-18": 1440,
       "2021-07-17": 1440,
       "2021-07-16": 1440,
       "2021-07-15": 1440,
@@ -301,11 +302,11 @@
     "url": "https://api.camino.beta.gouv.fr/titres",
     "icon": "https://favicons.githubusercontent.com/api.camino.beta.gouv.fr",
     "slug": "api-camino",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "86.95%",
-    "uptimeWeek": "84.48%",
-    "uptimeMonth": "96.13%",
+    "uptimeDay": "86.82%",
+    "uptimeWeek": "84.46%",
+    "uptimeMonth": "96.14%",
     "uptimeYear": "99.22%",
     "time": 17224,
     "timeDay": 20423,
@@ -313,6 +314,7 @@
     "timeMonth": 19117,
     "timeYear": 17224,
     "dailyMinutesDown": {
+      "2021-07-19": 2,
       "2021-07-18": 190,
       "2021-07-17": 214,
       "2021-07-16": 140,
@@ -320,7 +322,7 @@
       "2021-07-14": 263,
       "2021-07-13": 400,
       "2021-07-12": 224,
-      "2021-07-11": 133
+      "2021-07-11": 125
     }
   },
   {
@@ -386,9 +388,9 @@
     "url": "https://api-rnm.artisanat.fr/v2/entreprises/824024350",
     "icon": "https://favicons.githubusercontent.com/api-rnm.artisanat.fr",
     "slug": "api-repertoire-national-des-metiers",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "98.99%",
@@ -398,6 +400,7 @@
     "timeMonth": 636,
     "timeYear": 2929,
     "dailyMinutesDown": {
+      "2021-07-19": 0,
       "2021-06-30": 68,
       "2021-06-24": 67,
       "2021-05-27": 119,
@@ -461,7 +464,8 @@
     "timeMonth": 620,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2021-07-18": 1431,
+      "2021-07-19": 3,
+      "2021-07-18": 1440,
       "2021-07-17": 1440,
       "2021-07-16": 1440,
       "2021-07-15": 1440,
@@ -623,7 +627,7 @@
     "status": "up",
     "uptime": "99.10%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.25%",
+    "uptimeWeek": "94.36%",
     "uptimeMonth": "95.55%",
     "uptimeYear": "99.10%",
     "time": 753,
