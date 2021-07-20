@@ -142,7 +142,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-20": 887,
+      "2021-07-20": 1133,
       "2021-07-19": 1440,
       "2021-07-18": 1440,
       "2021-07-17": 1440,
@@ -303,15 +303,15 @@
     "url": "https://api.camino.beta.gouv.fr/titres",
     "icon": "https://favicons.githubusercontent.com/api.camino.beta.gouv.fr",
     "slug": "api-camino",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "89.16%",
-    "uptimeWeek": "86.72%",
-    "uptimeMonth": "96.04%",
+    "uptimeDay": "89.14%",
+    "uptimeWeek": "87.09%",
+    "uptimeMonth": "96.06%",
     "uptimeYear": "99.21%",
     "time": 17316,
     "timeDay": 19150,
-    "timeWeek": 19097,
+    "timeWeek": 19078,
     "timeMonth": 19121,
     "timeYear": 17316,
     "dailyMinutesDown": {
@@ -323,7 +323,7 @@
       "2021-07-15": 136,
       "2021-07-14": 263,
       "2021-07-13": 400,
-      "2021-07-12": 60
+      "2021-07-12": 52
     }
   },
   {
@@ -465,7 +465,7 @@
     "timeMonth": 617,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2021-07-20": 887,
+      "2021-07-20": 1133,
       "2021-07-19": 1440,
       "2021-07-18": 1440,
       "2021-07-17": 1440,
@@ -627,11 +627,11 @@
     "icon": "https://favicons.githubusercontent.com/fr.openfisca.org",
     "slug": "openfisca-france-web-api",
     "status": "up",
-    "uptime": "99.11%",
+    "uptime": "99.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.55%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.12%",
     "time": 752,
     "timeDay": 659,
     "timeWeek": 791,
