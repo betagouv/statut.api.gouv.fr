@@ -142,7 +142,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-05": 1394,
+      "2021-08-05": 1403,
       "2021-08-04": 1440,
       "2021-08-03": 1440,
       "2021-08-02": 1440,
@@ -319,16 +319,16 @@
     "url": "https://api.camino.beta.gouv.fr/titres",
     "icon": "https://favicons.githubusercontent.com/api.camino.beta.gouv.fr",
     "slug": "api-camino",
-    "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "94.06%",
+    "status": "down",
+    "uptime": "99.47%",
+    "uptimeDay": "94.04%",
     "uptimeWeek": "93.17%",
-    "uptimeMonth": "97.01%",
-    "uptimeYear": "99.46%",
+    "uptimeMonth": "97.04%",
+    "uptimeYear": "99.47%",
     "time": 17824,
     "timeDay": 19903,
     "timeWeek": 19392,
-    "timeMonth": 19191,
+    "timeMonth": 19193,
     "timeYear": 17824,
     "dailyMinutesDown": {
       "2021-08-05": 68,
@@ -343,7 +343,7 @@
       "2021-07-27": 79,
       "2021-07-26": 75,
       "2021-07-25": 105,
-      "2021-07-24": 70
+      "2021-07-24": 56
     }
   },
   {
@@ -360,7 +360,7 @@
     "time": 512,
     "timeDay": 371,
     "timeWeek": 589,
-    "timeMonth": 571,
+    "timeMonth": 577,
     "timeYear": 512,
     "dailyMinutesDown": {}
   },
@@ -378,7 +378,7 @@
     "time": 487,
     "timeDay": 96,
     "timeWeek": 129,
-    "timeMonth": 131,
+    "timeMonth": 132,
     "timeYear": 487,
     "dailyMinutesDown": {
       "2021-04-22": 30,
@@ -400,7 +400,7 @@
     "time": 558,
     "timeDay": 463,
     "timeWeek": 530,
-    "timeMonth": 607,
+    "timeMonth": 613,
     "timeYear": 558,
     "dailyMinutesDown": {}
   },
@@ -418,7 +418,7 @@
     "time": 2711,
     "timeDay": 509,
     "timeWeek": 616,
-    "timeMonth": 694,
+    "timeMonth": 696,
     "timeYear": 2711,
     "dailyMinutesDown": {
       "2021-07-28": 73,
@@ -464,7 +464,7 @@
     "time": 243,
     "timeDay": 207,
     "timeWeek": 262,
-    "timeMonth": 266,
+    "timeMonth": 267,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2021-06-08": 25
@@ -484,10 +484,10 @@
     "time": 630,
     "timeDay": 558,
     "timeWeek": 617,
-    "timeMonth": 655,
+    "timeMonth": 656,
     "timeYear": 630,
     "dailyMinutesDown": {
-      "2021-08-05": 1394,
+      "2021-08-05": 1403,
       "2021-08-04": 1440,
       "2021-08-03": 1440,
       "2021-08-02": 1440,
@@ -673,7 +673,7 @@
     "time": 770,
     "timeDay": 654,
     "timeWeek": 835,
-    "timeMonth": 890,
+    "timeMonth": 901,
     "timeYear": 770,
     "dailyMinutesDown": {
       "2021-07-28": 74,
@@ -696,7 +696,7 @@
     "time": 686,
     "timeDay": 605,
     "timeWeek": 690,
-    "timeMonth": 724,
+    "timeMonth": 727,
     "timeYear": 686,
     "dailyMinutesDown": {}
   }
