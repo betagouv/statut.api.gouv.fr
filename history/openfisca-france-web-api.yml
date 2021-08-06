@@ -1,7 +1,7 @@
 url: https://fr.openfisca.org/api/latest/variable/en_couple
-status: down
-code: 502
-responseTime: 23965
-lastUpdated: 2021-08-06T15:54:40.455Z
+status: up
+code: 200
+responseTime: 617
+lastUpdated: 2021-08-06T17:34:49.326Z
 startTime: Wed Feb 17 2021 16:57:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
