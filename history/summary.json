@@ -142,7 +142,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-08": 895,
+      "2021-08-08": 911,
       "2021-08-07": 1440,
       "2021-08-06": 1440,
       "2021-08-05": 1440,
@@ -322,11 +322,11 @@
     "url": "https://api.camino.beta.gouv.fr/titres",
     "icon": "https://favicons.githubusercontent.com/api.camino.beta.gouv.fr",
     "slug": "api-camino",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "80.66%",
-    "uptimeWeek": "91.42%",
-    "uptimeMonth": "96.80%",
+    "uptimeDay": "80.64%",
+    "uptimeWeek": "91.56%",
+    "uptimeMonth": "96.82%",
     "uptimeYear": "99.43%",
     "time": 17903,
     "timeDay": 19373,
@@ -345,7 +345,7 @@
       "2021-07-31": 108,
       "2021-07-30": 58,
       "2021-07-29": 169,
-      "2021-07-28": 57
+      "2021-07-28": 49
     }
   },
   {
@@ -412,11 +412,11 @@
     "icon": "https://favicons.githubusercontent.com/api-rnm.artisanat.fr",
     "slug": "api-repertoire-national-des-metiers",
     "status": "up",
-    "uptime": "99.02%",
+    "uptime": "99.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
-    "uptimeYear": "99.02%",
+    "uptimeYear": "99.03%",
     "time": 2694,
     "timeDay": 622,
     "timeWeek": 629,
@@ -489,7 +489,7 @@
     "timeMonth": 649,
     "timeYear": 630,
     "dailyMinutesDown": {
-      "2021-08-08": 895,
+      "2021-08-08": 911,
       "2021-08-07": 1440,
       "2021-08-06": 1440,
       "2021-08-05": 1440,
