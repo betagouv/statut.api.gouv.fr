@@ -1,7 +1,7 @@
 url: https://entreprise.data.gouv.fr/api/sirene/v3/etablissements/?etat_administratif=A&siren=345184428
 status: up
 code: 200
-responseTime: 99
-lastUpdated: 2021-08-20T23:13:33.189Z
+responseTime: 164
+lastUpdated: 2021-08-21T23:13:25.570Z
 startTime: Thu Feb 18 2021 13:20:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
