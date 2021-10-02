@@ -145,7 +145,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-02": 233,
+      "2021-10-02": 244,
       "2021-10-01": 1440,
       "2021-09-30": 1440,
       "2021-09-29": 1440,
@@ -423,18 +423,20 @@
     "url": "https://entreprise.data.gouv.fr/api/rna/v1/id/W9C1000188",
     "icon": "https://favicons.githubusercontent.com/entreprise.data.gouv.fr",
     "slug": "api-repertoire-national-des-associations",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 516,
-    "timeDay": 710,
-    "timeWeek": 486,
-    "timeMonth": 513,
+    "timeDay": 627,
+    "timeWeek": 493,
+    "timeMonth": 514,
     "timeYear": 516,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-02": 0
+    }
   },
   {
     "name": "API Sirene données ouvertes",
@@ -561,7 +563,7 @@
     "timeMonth": 661,
     "timeYear": 639,
     "dailyMinutesDown": {
-      "2021-10-02": 233,
+      "2021-10-02": 244,
       "2021-10-01": 1440,
       "2021-09-30": 1440,
       "2021-09-29": 1440,
