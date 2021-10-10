@@ -145,7 +145,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-10": 35,
+      "2021-10-10": 510,
       "2021-10-09": 1440,
       "2021-10-08": 1440,
       "2021-10-07": 1440,
@@ -574,7 +574,7 @@
     "timeMonth": 663,
     "timeYear": 639,
     "dailyMinutesDown": {
-      "2021-10-10": 36,
+      "2021-10-10": 510,
       "2021-10-09": 1440,
       "2021-10-08": 1440,
       "2021-10-07": 1440,
@@ -817,9 +817,9 @@
     "url": "https://fr.openfisca.org/api/latest/variable/en_couple",
     "icon": "https://favicons.githubusercontent.com/fr.openfisca.org",
     "slug": "openfisca-france-web-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.23%",
@@ -829,6 +829,7 @@
     "timeMonth": 1052,
     "timeYear": 962,
     "dailyMinutesDown": {
+      "2021-10-10": 0,
       "2021-08-06": 100,
       "2021-07-28": 74,
       "2021-07-27": 486,
