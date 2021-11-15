@@ -1,7 +1,7 @@
 url: https://etablissements-publics.api.gouv.fr/v3/departements/35/ccas
 status: up
 code: 200
-responseTime: 546
-lastUpdated: 2021-11-14T23:14:55.447Z
+responseTime: 644
+lastUpdated: 2021-11-15T23:15:13.209Z
 startTime: Thu Feb 18 2021 13:20:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
