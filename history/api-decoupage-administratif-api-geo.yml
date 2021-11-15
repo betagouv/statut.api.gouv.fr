@@ -1,7 +1,7 @@
 url: https://geo.api.gouv.fr/regions/01?fields=nom,code
 status: up
 code: 200
-responseTime: 628
-lastUpdated: 2021-11-14T23:14:09.221Z
+responseTime: 1004
+lastUpdated: 2021-11-15T23:14:24.692Z
 startTime: Thu Feb 18 2021 13:20:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
