@@ -1,7 +1,7 @@
 url: https://api.aife.economie.gouv.fr/dila/legifrance-beta/lf-engine-app/consult/ping
 status: down
 code: 400
-responseTime: 642
-lastUpdated: 2021-11-15T23:15:16.671Z
+responseTime: 579
+lastUpdated: 2021-11-16T23:15:10.119Z
 startTime: Thu Feb 18 2021 13:20:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
